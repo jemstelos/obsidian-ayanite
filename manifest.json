@@ -2,8 +2,8 @@
 	"id": "ayanite",
 	"name": "Ayanite",
 	"version": "1.0.0",
-	"minAppVersion": "0.15.0",
-	"description": "A powerful AI chat interface for leveraging GPT models in an integrated learning environment",
+	"minAppVersion": "1.5.12",
+	"description": "Advanced AI chat interface and knowledge copilot for professionals. Turn Obsidian into an Integrated Knowledge Environment. Supports Ollama and cloud GPT providers. (Closed source)",
 	"author": "jemstelos",
 	"isDesktopOnly": true
 }
